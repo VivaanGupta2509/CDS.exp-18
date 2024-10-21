@@ -174,8 +174,15 @@ int main() {
 }
 ```
 
-### Outputs :
+## Outputs :
 ### 1.
-
+<img width="541" alt="Screenshot 2024-10-21 at 2 05 36 PM" src="https://github.com/user-attachments/assets/be4e912a-4bc7-45bf-be79-3a46d1c1cebd">
 
 ### 2.
+<img width="503" alt="Screenshot 2024-10-21 at 2 08 40 PM" src="https://github.com/user-attachments/assets/792ef539-ccc4-4b05-b48a-05780f799dea">
+
+## Conclusion -
+We learnt about stack implementation using array in C++.
+
+
+
